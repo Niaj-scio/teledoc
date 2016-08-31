@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Cómo hacer un bot"
 categories: articles
 modified: 2016-04-26T12:06:11-05:30

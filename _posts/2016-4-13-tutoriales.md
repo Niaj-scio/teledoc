@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 title: "Tutoriales"
 categories: media
 excerpt: "Ejemplos de uso."

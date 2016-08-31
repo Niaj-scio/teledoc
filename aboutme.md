@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Acerca de
+subtitle: El modo operando de este manual
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Gracias por leer este manual.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- es tu guía al conocimiento de Telegram
+- ofrecemos tutoriales para que domines esta plataforma
 
-What else do you need?
+¿Necesitas ayuda? Estamos en ello
 
-### my history
+### Más aportes
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Por el momento, añadir o mejorar esta guía dependerá del éxito que lleve Telegram [al público](http://es.wikipedia.org/wiki/Telegram_Messenger) y los canales disponibles.

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: "Recomienda tu creatividad"
 categories: articles
 modified: 2016-08-29T12:32:00-05:30

@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: post
 title: "Videos de bots"
 categories: media
 excerpt: "La manera (casi) fácil de interactuar las aplicaciones."
