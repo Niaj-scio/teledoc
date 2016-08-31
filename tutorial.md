@@ -8,8 +8,6 @@ subtitle: Cómo instalar Telegram
 
 Aquí los pasos para instalar Telegram. Incluimos algunos enlaces para estar enterado en la plataforma.
 
-{% include toc.html %}
-
 ## Instalación
 
 Instalamos [Telegram](https://telegram.org/). El dispositivo que quiera instalar puede variar y te damos tres opciones:
