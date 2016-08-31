@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Directorio
-subtitle: Directorio de canales y bots
+title: Términos de uso
+subtitle: Política de privacidad, de uso y esas cosas
 ---
 
 Gracias por leer esta guía. La información y multimedia mostrado en el sitio no está ligado directamente con empresas u organizaciones de cualquier tipo. Puedes añadir aportes y sugerencias desde Github http://github.com/niaj-scio/teledoc ¡Gracias por tu compresión!
