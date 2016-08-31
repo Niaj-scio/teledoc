@@ -11,13 +11,9 @@ Este es el directorio de canales y bots de Telegram. Recopilamos los mejores con
 > Si en la lista añadimos *cursivas*, significa que no es un bot de noticias,
 > sino una herramienta para consultar eventos o realizar acciones.
 
-Advertencia: No nos hacemos responsables del uso de canales o bots hechos por aficionados. Si quieres recomendar uno, [dinos en el artículo especial](http://niaj-scio.github.io/articles/sugerencias-bots-canales/).
+Advertencia: No nos hacemos responsables del uso de canales o bots hechos por aficionados. Si quieres recomendar uno, [dinos en el artículo especial](sugerencias-bots-canales/).
 
-{% include toc.html %}
-
-
-## Tecnología {#Tecnologia}
-
+## Tecnología
 | Nombre              |  Alias                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | **Omicrono**        | [@omicronocom](https://telegram.me/omicronocom)     | Español  |
@@ -26,7 +22,7 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 | **MuyLinux**        | https://telegram.me/muylinux        | Español  |
 
 
-### Móviles {#Moviles}
+### Móviles
 
 | Nombre                 |  Enlace                             | Idioma   |
 |------------------------|-------------------------------------|----------|
@@ -35,7 +31,7 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 | AndrApperos            | https://telegram.me/AndrApp4iu      | Español  |
 | Android5x1             | https://telegram.me/android5x1oficial |Español |
 
-### Videojuegos {#Videojuegos}
+### Videojuegos
 
 | Nombre              |  Enlace                             | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -43,9 +39,9 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 |**Games Tribune Magazine** | https://telegram.me/GamesTribune | Español   |
 
 
-## Informativos {#Informativos}
+## Informativos
 
-### Noticieros {#Noticieros}
+### Noticieros
 
 | Nombre                      | Enlace                              | Idioma   |
 |-----------------------------|-------------------------------------|----------|
@@ -57,13 +53,13 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 | **Huffigton Post (España)** | https://telegram.me/elhuffpost | Español |
 | **El Mundo** (España)       | https://telegram.me/ElMundoActualidad |Español|
 
-### Economía{#Economia}
+### Economía
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 |No disponible|
 
-## Etretenimiento {#Etretenimiento}
+## Etretenimiento
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -71,7 +67,7 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 | Humor (comunidad)   | https://telegram.me/humoresp        | Español  |
 | Tjournal            | https://telegram.me/tjnews          | Ruso     |
 
-### Cultura {#Cultura}
+### Cultura
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -79,36 +75,36 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 | Historia            | https://telegram.me/historiadiaria  | Español  |
 | Meduza              | https://telegram.me/meduzalive      | Ruso     |
 
-### Vida social {#Vida_social}
+### Vida social
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | **Verne** (El País) | https://telegram.me/verneelpais     | Español  |
 | Chollos             | https://telegram.me/Chollos         | Español  |
 
-### Deportes {#Deportes}
+### Deportes
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | KiaenZona           | https://telegram.me/KiaenZona       | Inglés   |
 | Pasión Baket        | https://telegram.me/Pasion_Basket   | Español  |
 
-## Pasatiempos {#Pasatiempos}
+## Pasatiempos
 
-### Viajes {#Viajes}
+### Viajes
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | *Flysafebot*        | https://telegram.me/Flysafebot      | Inglés   |
 | TravelFar           | https://telegram.me/TravelFar       | Ruso e inglés |
 
-### Hogar {#Hogar}
+### Hogar
 
 | Nombre                            | Enlace                                         | Idioma   |
 |-----------------------------------|------------------------------------------------|----------|
 | Disfruta de la cocina fácil       | https://telegram.me/disfrutalacocinafacil      | Español  |
 
-### Clima {#Clima}
+### Clima
 
 | Nombre                            | Enlace                                         |     Idioma     |
 |-----------------------------------|------------------------------------------------|----------------|
@@ -121,9 +117,9 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 | Virgin Punch                      | https://telegram.me/virginpunch                | Inglés  |
 | Beautiful Pixel                   | https://telegram.me/beautifulpixel                | Inglés  |
 
-## Publicaciones propias {#Institucionales}
+## Publicaciones propias
 
-### Gobierno {#Gobierno}
+### Gobierno
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -131,7 +127,7 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 | RAEC Digest         | https://telegram.me/raecdigest      | Inglés   |
 | **UNICEF** (Español)    | https://telegram.me/unicef_es       | Español   |
 
-### Empresas {#Empresas}
+### Empresas
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -145,14 +141,14 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 | Unpublished         | https://telegram.me/myunpublished   | Ruso   |
 | Alferova Yulya      | https://telegram.me/alferovayulya   | Ruso  |
 
-## Juegos y redes sociales {#Juegos}
+## Juegos y redes sociales
 
 | Nombre                            | Enlace                                         |     Idioma     |
 |-----------------------------------|------------------------------------------------|----------------|
 | Pokerbot                          | https://telegram.me/pokerbot                   | Multilenguaje  |
 | HotOrBot                          | https://telegram.me/hotorbot                   | Inglés  |
 
-## Telegram {#Telegram}
+## Telegram
 
 ### Desarrollo oficial
 
